@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">e04a9f3ddb38230087c99444ca9619eb</grid_canvas>
+        <height>5</height>
+        <portal_widget display_value="Created 2018-09-27 20:46:12">244a9b75dbb8230087c99444ca961947</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-28 03:46:12</sys_created_on>
+        <sys_id>e44a9b75dbb8230087c99444ca961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e04a9f3ddb38230087c99444ca9619eb</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_275452_marketing">faea54b0db30230087c99444ca9619e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Events Application">faea54b0db30230087c99444ca9619e4</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_e44a9b75dbb8230087c99444ca961949</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-28 03:46:12</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>
